@@ -1,0 +1,4 @@
+fix door,high
+clean roof,low
+Grocery Shopping,high
+Mow Lawn,low
